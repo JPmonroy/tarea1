@@ -1,0 +1,85 @@
+.section{
+    background-color: #FFFFFF;
+    width: 1300px;
+    margin: auto auto;
+    height: 650px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.m1{
+    color: #ffffff;
+    font-family: 'Pangolin', cursive;
+    margin-right: 900px;
+    
+}
+.titulo2{
+	color: gray;
+	font-family: 'Pangolin', cursive;
+    text-align: left;
+    font-size: 40px;
+    padding-top: 40px;
+    padding-left: 545px;
+    
+}
+.ct1{
+    width: 400px;
+    height: 500px;
+    float: left;
+    background-color: black;
+    background-position:center;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 40px;
+
+}
+.ct2{
+    width: 400px;
+    height: 500px;
+    float: left;
+    background-color: black;
+    background-position:center;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-top: 40px;
+}
+.ct3{
+    width: 400px;
+    height: 500px;
+    float: left;
+    background-color: black;
+    background-position:center;
+    margin-left: 15px;
+    margin-right: 0px;
+    margin-top: 40px;
+
+}
+img{
+    justify-content: center;
+    margin-top: 20px;
+    width: 139px;
+    height: 140px;
+
+}
+.tf{
+   width: 150px;
+   height: 100px;
+   margin-top: 55px;
+}
+   
+.sl{
+   justify-content: center;
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+}
+p1{
+   font-family: 'Pangolin', cursive;
+    color: #FFFFFF;
+    font-size: 35px;
+    margin-left: 5px;
+    margin-top: 130px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}    

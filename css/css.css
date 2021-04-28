@@ -1,0 +1,40 @@
+section{
+    width: 1300px;
+    height: 650px;
+    margin: auto auto;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #ffffff;
+
+}
+
+.caja_text{
+    background-color: black;
+    width: 1050px;
+    height: 500px;
+    float: left;
+    margin-top: 50px;
+    margin-left:125px;
+    border: 1px solid darkblue;
+    background-position:center; 
+}
+
+h1{
+    font-family: 'Pangolin', cursive;
+    color: #FFFFFF;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 130px;
+}
+p2{
+    font-family: 'Pangolin', cursive;
+    color: #FFFFFF;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 130px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}    
+              
